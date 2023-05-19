@@ -554,6 +554,13 @@
 },
 
 {
+  "VendorTag": "com.oplus.ultra.wide.high.supported.picturesize",
+  "Type": "Int32",
+  "Count": "2",
+  "Value": "8192x6144"
+},
+
+{
   "VendorTag": "com.oplus.feature.video.super.eis.support",
   "Type": "Byte",
   "Count": "1",
@@ -1006,6 +1013,13 @@
   "Type": "Byte",
   "Count": "1",
   "Value": "0"
+},
+
+{
+  "VendorTag": "com.oplus.gesture.detect.in.aps",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
 },
 
 {
