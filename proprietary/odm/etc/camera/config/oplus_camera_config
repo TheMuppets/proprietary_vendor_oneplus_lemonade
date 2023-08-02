@@ -1115,7 +1115,7 @@
 
 {
   "VendorTag": "com.oplus.athena.memory.threshold",
-  "Type": "Byte",
+  "Type": "Float",
   "Count": "1",
   "Value": "3.0"
 },
@@ -1433,6 +1433,13 @@
   "Type": "Float",
   "Count": "3",
   "Value": "2.25,2.25,2.25"
+},
+
+{
+   "VendorTag": "com.oplus.camera.support.custom.hasselblad.watermark",
+   "Type": "Byte",
+   "Count": "1",
+   "Value": "1"
 }
 
 ]
